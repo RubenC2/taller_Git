@@ -1,3 +1,3 @@
 console.log("hola")
-alert("Adios")
-alert("SOS")
+alert("HOLA")
+alert("HOLA")
