@@ -1,3 +1,4 @@
-console.log("hola")
-alert("HOLA")
-alert("HOLA")
+console.log("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
+alert("Adios")
+alert("SOS")
+
